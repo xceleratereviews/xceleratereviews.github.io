@@ -29,7 +29,7 @@
 }
 
 .video_title {
-	color: white;
+	color: black;
 	position: absolute;
 	bottom: 0px;
 	text-align: center;
@@ -49,9 +49,5 @@
 }
 
 .social {
-	margin-right: 50px;
-}
-
-.social:hover {
-	opacity: .5;
+	margin-right: 20px;
 }
